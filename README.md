@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord : sudlit#9279-%237289DA.svg?logo=discord&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord:sudlit#9279-%237289DA.svg?logo=discord&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudlit_) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](http://fb.com/sudlit.w/)
 
